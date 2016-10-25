@@ -1,1 +1,1 @@
-Hi, my name is Imran and this is going to be my first commit.
+Hi, I am learning to edit files in git. My name is Imran and this is going to be my first commit.
