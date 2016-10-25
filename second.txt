@@ -1,1 +1,2 @@
 This is the second text file that I'm creating.
+Changes to the second.

@@ -1,1 +1,2 @@
-This is my random third file
+This is my random third file.
+Chnages to the third.
