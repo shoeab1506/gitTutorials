@@ -1,0 +1,3 @@
+Hi, I am learning to edit files in git. My name is Imran and this is going to be my first commit.
+I am trying to compare the files in the repository vs. the working files.
+Trial and error.
